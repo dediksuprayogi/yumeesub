@@ -71,3 +71,24 @@ html {
       width: 1080px;
       margin: 0 auto;
   }
+
+  .head-food p{
+    font-size: 28px;
+    margin-top: 40px;
+    font-weight: bold;
+    font-family: Quicksand;
+  }
+.line{
+    margin-top: -10px;
+	width: 100px;
+	border-top: 3px solid rgb(70, 70, 70);
+ }
+
+ .menu-food{
+     text-align: center;
+ }
+ .menu-food img{
+    height: 900px;
+    width: 800px;
+    margin-top: 10px;
+ }

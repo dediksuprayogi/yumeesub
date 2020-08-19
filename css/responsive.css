@@ -3,6 +3,10 @@
     .carousel-inner{
         height: 450px;
     }
+    .menu-food img{
+        height: 740px;
+        width: 620px;
+     }
   }
   
   /*Responsive Untuk Smartphone */
@@ -22,5 +26,9 @@
         width: 1080px;
         margin: 0 auto;
     }
+    .menu-food img{
+        height: 540px;
+        width: 420px;
+     }
   }
   
